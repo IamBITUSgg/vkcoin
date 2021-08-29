@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.1ad3a7f3.chunk.css",
-    "main.js": "./static/js/main.fab87d06.chunk.js",
-    "main.js.map": "./static/js/main.fab87d06.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.449235df.js",
-    "runtime-main.js.map": "./static/js/runtime-main.449235df.js.map",
-    "static/css/2.4df9e7ca.chunk.css": "./static/css/2.4df9e7ca.chunk.css",
-    "static/js/2.2f6194fb.chunk.js": "./static/js/2.2f6194fb.chunk.js",
-    "static/js/2.2f6194fb.chunk.js.map": "./static/js/2.2f6194fb.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/2.4df9e7ca.chunk.css.map": "./static/css/2.4df9e7ca.chunk.css.map",
-    "static/css/main.1ad3a7f3.chunk.css.map": "./static/css/main.1ad3a7f3.chunk.css.map",
-    "static/js/2.2f6194fb.chunk.js.LICENSE.txt": "./static/js/2.2f6194fb.chunk.js.LICENSE.txt",
-    "static/media/Home.css": "./static/media/forvanya5.6f033841.jpg",
-    "static/media/wheelv2.css": "./static/media/wheelnobg.8c442a29.png"
+    "main.css": "/myapp/static/css/main.4df55845.chunk.css",
+    "main.js": "/myapp/static/js/main.03b4d00f.chunk.js",
+    "main.js.map": "/myapp/static/js/main.03b4d00f.chunk.js.map",
+    "runtime-main.js": "/myapp/static/js/runtime-main.08603a51.js",
+    "runtime-main.js.map": "/myapp/static/js/runtime-main.08603a51.js.map",
+    "static/css/2.4df9e7ca.chunk.css": "/myapp/static/css/2.4df9e7ca.chunk.css",
+    "static/js/2.3bfa0d5e.chunk.js": "/myapp/static/js/2.3bfa0d5e.chunk.js",
+    "static/js/2.3bfa0d5e.chunk.js.map": "/myapp/static/js/2.3bfa0d5e.chunk.js.map",
+    "index.html": "/myapp/index.html",
+    "static/css/2.4df9e7ca.chunk.css.map": "/myapp/static/css/2.4df9e7ca.chunk.css.map",
+    "static/css/main.4df55845.chunk.css.map": "/myapp/static/css/main.4df55845.chunk.css.map",
+    "static/js/2.3bfa0d5e.chunk.js.LICENSE.txt": "/myapp/static/js/2.3bfa0d5e.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/myapp/static/media/forvanya5.6f033841.jpg",
+    "static/media/wheelv2.css": "/myapp/static/media/wheelnobg.8c442a29.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.449235df.js",
+    "static/js/runtime-main.08603a51.js",
     "static/css/2.4df9e7ca.chunk.css",
-    "static/js/2.2f6194fb.chunk.js",
-    "static/css/main.1ad3a7f3.chunk.css",
-    "static/js/main.fab87d06.chunk.js"
+    "static/js/2.3bfa0d5e.chunk.js",
+    "static/css/main.4df55845.chunk.css",
+    "static/js/main.03b4d00f.chunk.js"
   ]
 }
